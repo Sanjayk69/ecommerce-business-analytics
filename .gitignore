@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Local SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Raw source data
+data/raw/
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Power BI temporary/lock files
+*.pbi[ae]x
+~$*
